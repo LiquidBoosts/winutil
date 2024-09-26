@@ -15,86 +15,6 @@
         "link": "https://www.7-zip.org/",
         "winget": "7zip.7zip"
     },
-    "adobe": {
-        "category": "Document",
-        "choco": "adobereader",
-        "content": "Adobe Acrobat Reader",
-        "description": "Adobe Acrobat Reader is a free PDF viewer with essential features for viewing, printing, and annotating PDF documents.",
-        "link": "https://www.adobe.com/acrobat/pdf-reader.html",
-        "winget": "Adobe.Acrobat.Reader.64-bit"
-    },
-    "advancedip": {
-        "category": "Pro Tools",
-        "choco": "advanced-ip-scanner",
-        "content": "Advanced IP Scanner",
-        "description": "Advanced IP Scanner is a fast and easy-to-use network scanner. It is designed to analyze LAN networks and provides information about connected devices.",
-        "link": "https://www.advanced-ip-scanner.com/",
-        "winget": "Famatech.AdvancedIPScanner"
-    },
-    "affine": {
-        "category": "Document",
-        "choco": "na",
-        "content": "AFFiNE",
-        "description": "AFFiNE is an open source alternative to Notion. Write, draw, plan all at once. Selfhost it to sync across devices.",
-        "link": "https://affine.pro/",
-        "winget": "ToEverything.AFFiNE"
-    },
-    "aimp": {
-        "category": "Multimedia Tools",
-        "choco": "aimp",
-        "content": "AIMP (Music Player)",
-        "description": "AIMP is a feature-rich music player with support for various audio formats, playlists, and customizable user interface.",
-        "link": "https://www.aimp.ru/",
-        "winget": "AIMP.AIMP"
-    },
-    "alacritty": {
-        "category": "Utilities",
-        "choco": "alacritty",
-        "content": "Alacritty Terminal",
-        "description": "Alacritty is a fast, cross-platform, and GPU-accelerated terminal emulator. It is designed for performance and aims to be the fastest terminal emulator available.",
-        "link": "https://alacritty.org/",
-        "winget": "Alacritty.Alacritty"
-    },
-    "anaconda3": {
-        "category": "Development",
-        "choco": "anaconda3",
-        "content": "Anaconda",
-        "description": "Anaconda is a distribution of the Python and R programming languages for scientific computing.",
-        "link": "https://www.anaconda.com/products/distribution",
-        "winget": "Anaconda.Anaconda3"
-    },
-    "angryipscanner": {
-        "category": "Pro Tools",
-        "choco": "angryip",
-        "content": "Angry IP Scanner",
-        "description": "Angry IP Scanner is an open-source and cross-platform network scanner. It is used to scan IP addresses and ports, providing information about network connectivity.",
-        "link": "https://angryip.org/",
-        "winget": "angryziber.AngryIPScanner"
-    },
-    "anki": {
-        "category": "Document",
-        "choco": "anki",
-        "content": "Anki",
-        "description": "Anki is a flashcard application that helps you memorize information with intelligent spaced repetition.",
-        "link": "https://apps.ankiweb.net/",
-        "winget": "Anki.Anki"
-    },
-    "anydesk": {
-        "category": "Utilities",
-        "choco": "anydesk",
-        "content": "AnyDesk",
-        "description": "AnyDesk is a remote desktop software that enables users to access and control computers remotely. It is known for its fast connection and low latency.",
-        "link": "https://anydesk.com/",
-        "winget": "AnyDeskSoftwareGmbH.AnyDesk"
-    },
-    "audacity": {
-        "category": "Multimedia Tools",
-        "choco": "audacity",
-        "content": "Audacity",
-        "description": "Audacity is a free and open-source audio editing software known for its powerful recording and editing capabilities.",
-        "link": "https://www.audacityteam.org/",
-        "winget": "Audacity.Audacity"
-    },
     "autoruns": {
         "category": "Microsoft Tools",
         "choco": "autoruns",
@@ -102,142 +22,6 @@
         "description": "This utility shows you what programs are configured to run during system bootup or login",
         "link": "https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns",
         "winget": "Microsoft.Sysinternals.Autoruns"
-    },
-    "rdcman": {
-        "category": "Microsoft Tools",
-        "choco": "rdcman",
-        "content": "RDCMan",
-        "description": "RDCMan manages multiple remote desktop connections. It is useful for managing server labs where you need regular access to each machine such as automated checkin systems and data centers.",
-        "link": "https://learn.microsoft.com/en-us/sysinternals/downloads/rdcman",
-        "winget": "Microsoft.Sysinternals.RDCMan"
-    },
-    "autohotkey": {
-        "category": "Utilities",
-        "choco": "autohotkey",
-        "content": "AutoHotkey",
-        "description": "AutoHotkey is a scripting language for Windows that allows users to create custom automation scripts and macros. It is often used for automating repetitive tasks and customizing keyboard shortcuts.",
-        "link": "https://www.autohotkey.com/",
-        "winget": "AutoHotkey.AutoHotkey"
-    },
-    "azuredatastudio": {
-        "category": "Microsoft Tools",
-        "choco": "azure-data-studio",
-        "content": "Microsoft Azure Data Studio",
-        "description": "Azure Data Studio is a data management tool that enables you to work with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.",
-        "link": "https://docs.microsoft.com/sql/azure-data-studio/what-is-azure-data-studio",
-        "winget": "Microsoft.AzureDataStudio"
-    },
-    "barrier": {
-        "category": "Utilities",
-        "choco": "barrier",
-        "content": "Barrier",
-        "description": "Barrier is an open-source software KVM (keyboard, video, and mouseswitch). It allows users to control multiple computers with a single keyboard and mouse, even if they have different operating systems.",
-        "link": "https://github.com/debauchee/barrier",
-        "winget": "DebaucheeOpenSourceGroup.Barrier"
-    },
-    "bat": {
-        "category": "Utilities",
-        "choco": "bat",
-        "content": "Bat (Cat)",
-        "description": "Bat is a cat command clone with syntax highlighting. It provides a user-friendly and feature-rich alternative to the traditional cat command for viewing and concatenating files.",
-        "link": "https://github.com/sharkdp/bat",
-        "winget": "sharkdp.bat"
-    },
-    "bitwarden": {
-        "category": "Utilities",
-        "choco": "bitwarden",
-        "content": "Bitwarden",
-        "description": "Bitwarden is an open-source password management solution. It allows users to store and manage their passwords in a secure and encrypted vault, accessible across multiple devices.",
-        "link": "https://bitwarden.com/",
-        "winget": "Bitwarden.Bitwarden"
-    },
-    "bleachbit": {
-        "category": "Utilities",
-        "choco": "bleachbit",
-        "content": "BleachBit",
-        "description": "Clean Your System and Free Disk Space",
-        "link": "https://www.bleachbit.org/",
-        "winget": "BleachBit.BleachBit"
-    },
-    "blender": {
-        "category": "Multimedia Tools",
-        "choco": "blender",
-        "content": "Blender (3D Graphics)",
-        "description": "Blender is a powerful open-source 3D creation suite, offering modeling, sculpting, animation, and rendering tools.",
-        "link": "https://www.blender.org/",
-        "winget": "BlenderFoundation.Blender"
-    },
-    "brave": {
-        "category": "Browsers",
-        "choco": "brave",
-        "content": "Brave",
-        "description": "Brave is a privacy-focused web browser that blocks ads and trackers, offering a faster and safer browsing experience.",
-        "link": "https://www.brave.com",
-        "winget": "Brave.Brave"
-    },
-    "bulkcrapuninstaller": {
-        "category": "Utilities",
-        "choco": "bulk-crap-uninstaller",
-        "content": "Bulk Crap Uninstaller",
-        "description": "Bulk Crap Uninstaller is a free and open-source uninstaller utility for Windows. It helps users remove unwanted programs and clean up their system by uninstalling multiple applications at once.",
-        "link": "https://www.bcuninstaller.com/",
-        "winget": "Klocman.BulkCrapUninstaller"
-    },
-    "bulkrenameutility": {
-        "category": "Utilities",
-        "choco": "bulkrenameutility",
-        "content": "Bulk Rename Utility",
-        "description": "Bulk Rename Utility allows you to easily rename files and folders recursively based upon find-replace, character place, fields, sequences, regular expressions, EXIF data, and more.",
-        "link": "https://www.bulkrenameutility.co.uk",
-        "winget": "TGRMNSoftware.BulkRenameUtility"
-    },
-    "AdvancedRenamer": {
-        "category": "Utilities",
-        "choco": "advanced-renamer",
-        "content": "Advanced Renamer",
-        "description": "Advanced Renamer is a program for renaming multiple files and folders at once. By configuring renaming methods the names can be manipulated in various ways.",
-        "link": "https://www.advancedrenamer.com/",
-        "winget": "HulubuluSoftware.AdvancedRenamer"
-    },
-    "calibre": {
-        "category": "Document",
-        "choco": "calibre",
-        "content": "Calibre",
-        "description": "Calibre is a powerful and easy-to-use e-book manager, viewer, and converter.",
-        "link": "https://calibre-ebook.com/",
-        "winget": "calibre.calibre"
-    },
-    "carnac": {
-        "category": "Utilities",
-        "choco": "carnac",
-        "content": "Carnac",
-        "description": "Carnac is a keystroke visualizer for Windows. It displays keystrokes in an overlay, making it useful for presentations, tutorials, and live demonstrations.",
-        "link": "https://carnackeys.com/",
-        "winget": "code52.Carnac"
-    },
-    "cemu": {
-        "category": "Games",
-        "choco": "cemu",
-        "content": "Cemu",
-        "description": "Cemu is a highly experimental software to emulate Wii U applications on PC.",
-        "link": "https://cemu.info/",
-        "winget": "Cemu.Cemu"
-    },
-    "chatterino": {
-        "category": "Communications",
-        "choco": "chatterino",
-        "content": "Chatterino",
-        "description": "Chatterino is a chat client for Twitch chat that offers a clean and customizable interface for a better streaming experience.",
-        "link": "https://www.chatterino.com/",
-        "winget": "ChatterinoTeam.Chatterino"
-    },
-    "chrome": {
-        "category": "Browsers",
-        "choco": "googlechrome",
-        "content": "Chrome",
-        "description": "Google Chrome is a widely used web browser known for its speed, simplicity, and seamless integration with Google services.",
-        "link": "https://www.google.com/chrome/",
-        "winget": "Google.Chrome"
     },
     "chromium": {
         "category": "Browsers",
@@ -247,102 +31,6 @@
         "link": "https://github.com/Hibbiki/chromium-win64",
         "winget": "Hibbiki.Chromium"
     },
-    "arc": {
-        "category": "Browsers",
-        "choco": "na",
-        "content": "Arc",
-        "description": "Arc is a Chromium based browser, known for it's clean and modern design.",
-        "link": "https://arc.net/",
-        "winget": "TheBrowserCompany.Arc"
-    },
-    "clementine": {
-        "category": "Multimedia Tools",
-        "choco": "clementine",
-        "content": "Clementine",
-        "description": "Clementine is a modern music player and library organizer, supporting various audio formats and online radio services.",
-        "link": "https://www.clementine-player.org/",
-        "winget": "Clementine.Clementine"
-    },
-    "clink": {
-        "category": "Development",
-        "choco": "clink",
-        "content": "Clink",
-        "description": "Clink is a powerful Bash-compatible command-line interface (CLIenhancement for Windows, adding features like syntax highlighting and improved history).",
-        "link": "https://mridgers.github.io/clink/",
-        "winget": "chrisant996.Clink"
-    },
-    "clonehero": {
-        "category": "Games",
-        "choco": "na",
-        "content": "Clone Hero",
-        "description": "Clone Hero is a free rhythm game, which can be played with any 5 or 6 button guitar controller.",
-        "link": "https://clonehero.net/",
-        "winget": "CloneHeroTeam.CloneHero"
-    },
-    "cmake": {
-        "category": "Development",
-        "choco": "cmake",
-        "content": "CMake",
-        "description": "CMake is an open-source, cross-platform family of tools designed to build, test and package software.",
-        "link": "https://cmake.org/",
-        "winget": "Kitware.CMake"
-    },
-    "copyq": {
-        "category": "Utilities",
-        "choco": "copyq",
-        "content": "CopyQ (Clipboard Manager)",
-        "description": "CopyQ is a clipboard manager with advanced features, allowing you to store, edit, and retrieve clipboard history.",
-        "link": "https://copyq.readthedocs.io/",
-        "winget": "hluk.CopyQ"
-    },
-    "cpuz": {
-        "category": "Utilities",
-        "choco": "cpu-z",
-        "content": "CPU-Z",
-        "description": "CPU-Z is a system monitoring and diagnostic tool for Windows. It provides detailed information about the computer's hardware components, including the CPU, memory, and motherboard.",
-        "link": "https://www.cpuid.com/softwares/cpu-z.html",
-        "winget": "CPUID.CPU-Z"
-    },
-    "crystaldiskinfo": {
-        "category": "Utilities",
-        "choco": "crystaldiskinfo",
-        "content": "Crystal Disk Info",
-        "description": "Crystal Disk Info is a disk health monitoring tool that provides information about the status and performance of hard drives. It helps users anticipate potential issues and monitor drive health.",
-        "link": "https://crystalmark.info/en/software/crystaldiskinfo/",
-        "winget": "CrystalDewWorld.CrystalDiskInfo"
-    },
-    "capframex": {
-        "category": "Utilities",
-        "choco": "na",
-        "content": "CapFrameX",
-        "description": "Frametimes capture and analysis tool based on Intel's PresentMon. Overlay provided by Rivatuner Statistics Server.",
-        "link": "https://www.capframex.com/",
-        "winget": "CXWorld.CapFrameX"
-    },
-    "crystaldiskmark": {
-        "category": "Utilities",
-        "choco": "crystaldiskmark",
-        "content": "Crystal Disk Mark",
-        "description": "Crystal Disk Mark is a disk benchmarking tool that measures the read and write speeds of storage devices. It helps users assess the performance of their hard drives and SSDs.",
-        "link": "https://crystalmark.info/en/software/crystaldiskmark/",
-        "winget": "CrystalDewWorld.CrystalDiskMark"
-    },
-    "darktable": {
-        "category": "Multimedia Tools",
-        "choco": "darktable",
-        "content": "darktable",
-        "description": "Open-source photo editing tool, offering an intuitive interface, advanced editing capabilities, and a non-destructive workflow for seamless image enhancement.",
-        "link": "https://www.darktable.org/install/",
-        "winget": "darktable.darktable"
-    },
-    "DaxStudio": {
-        "category": "Development",
-        "choco": "daxstudio",
-        "content": "DaxStudio",
-        "description": "DAX (Data Analysis eXpressions) Studio is the ultimate tool for executing and analyzing DAX queries against Microsoft Tabular models.",
-        "link": "https://daxstudio.org/",
-        "winget": "DaxStudio.DaxStudio"
-    },
     "ddu": {
         "category": "Utilities",
         "choco": "ddu",
@@ -350,30 +38,6 @@
         "description": "Display Driver Uninstaller (DDU) is a tool for completely uninstalling graphics drivers from NVIDIA, AMD, and Intel. It is useful for troubleshooting graphics driver-related issues.",
         "link": "https://www.wagnardsoft.com/display-driver-uninstaller-DDU-",
         "winget": "ddu"
-    },
-    "deluge": {
-        "category": "Utilities",
-        "choco": "deluge",
-        "content": "Deluge",
-        "description": "Deluge is a free and open-source BitTorrent client. It features a user-friendly interface, support for plugins, and the ability to manage torrents remotely.",
-        "link": "https://deluge-torrent.org/",
-        "winget": "DelugeTeam.Deluge"
-    },
-    "devtoys": {
-        "category": "Utilities",
-        "choco": "devtoys",
-        "content": "DevToys",
-        "description": "DevToys is a collection of development-related utilities and tools for Windows. It includes tools for file management, code formatting, and productivity enhancements for developers.",
-        "link": "https://devtoys.app/",
-        "winget": "DevToys-app.DevToys"
-    },
-    "digikam": {
-        "category": "Multimedia Tools",
-        "choco": "digikam",
-        "content": "digiKam",
-        "description": "digiKam is an advanced open-source photo management software with features for organizing, editing, and sharing photos.",
-        "link": "https://www.digikam.org/",
-        "winget": "KDE.digikam"
     },
     "discord": {
         "category": "Communications",
@@ -383,21 +47,13 @@
         "link": "https://discord.com/",
         "winget": "Discord.Discord"
     },
-    "ditto": {
-        "category": "Utilities",
-        "choco": "ditto",
-        "content": "Ditto",
-        "description": "Ditto is an extension to the standard windows clipboard.",
-        "link": "https://github.com/sabrogden/Ditto",
-        "winget": "Ditto.Ditto"
-    },
-    "dockerdesktop": {
-        "category": "Development",
-        "choco": "docker-desktop",
-        "content": "Docker Desktop",
-        "description": "Docker Desktop is a powerful tool for containerized application development and deployment.",
-        "link": "https://www.docker.com/products/docker-desktop",
-        "winget": "Docker.DockerDesktop"
+    "discordptb": {
+        "category": "Communications",
+        "choco": "discord",
+        "content": "Discord",
+        "description": "Discord is a popular communication platform with voice, video, and text chat, designed for gamers but used by a wide range of communities.",
+        "link": "https://discord.com/",
+        "winget": "Discord.Discord.PTB"
     },
     "dotnet3": {
         "category": "Microsoft Tools",
@@ -439,54 +95,6 @@
         "link": "https://dotnet.microsoft.com/download/dotnet/8.0",
         "winget": "Microsoft.DotNet.DesktopRuntime.8"
     },
-    "dmt": {
-        "winget": "GNE.DualMonitorTools",
-        "choco": "dual-monitor-tools",
-        "category": "Utilities",
-        "content": "Dual Monitor Tools",
-        "link": "https://dualmonitortool.sourceforge.net/",
-        "description": "Dual Monitor Tools (DMT) is a FOSS app that customize handling multiple monitors and even lock the mouse on specific monitor. Useful for full screen games and apps that does not handle well a second monitor or helps the workflow."
-    },
-    "duplicati": {
-        "category": "Utilities",
-        "choco": "duplicati",
-        "content": "Duplicati",
-        "description": "Duplicati is an open-source backup solution that supports encrypted, compressed, and incremental backups. It is designed to securely store data on cloud storage services.",
-        "link": "https://www.duplicati.com/",
-        "winget": "Duplicati.Duplicati"
-    },
-    "eaapp": {
-        "category": "Games",
-        "choco": "ea-app",
-        "content": "EA App",
-        "description": "EA App is a platform for accessing and playing Electronic Arts games.",
-        "link": "https://www.ea.com/ea-app",
-        "winget": "ElectronicArts.EADesktop"
-    },
-    "eartrumpet": {
-        "category": "Multimedia Tools",
-        "choco": "eartrumpet",
-        "content": "EarTrumpet (Audio)",
-        "description": "EarTrumpet is an audio control app for Windows, providing a simple and intuitive interface for managing sound settings.",
-        "link": "https://eartrumpet.app/",
-        "winget": "File-New-Project.EarTrumpet"
-    },
-    "edge": {
-        "category": "Browsers",
-        "choco": "microsoft-edge",
-        "content": "Edge",
-        "description": "Microsoft Edge is a modern web browser built on Chromium, offering performance, security, and integration with Microsoft services.",
-        "link": "https://www.microsoft.com/edge",
-        "winget": "Microsoft.Edge"
-    },
-    "efibooteditor": {
-        "category": "Pro Tools",
-        "choco": "na",
-        "content": "EFI Boot Editor",
-        "description": "EFI Boot Editor is a tool for managing the EFI/UEFI boot entries on your system. It allows you to customize the boot configuration of your computer.",
-        "link": "https://www.easyuefi.com/",
-        "winget": "EFIBootEditor.EFIBootEditor"
-    },
     "emulationstation": {
         "category": "Games",
         "choco": "emulationstation",
@@ -511,30 +119,6 @@
         "link": "https://www.voidtools.com/",
         "winget": "voidtools.Everything"
     },
-    "espanso": {
-        "category": "Utilities",
-        "choco": "espanso",
-        "content": "Espanso",
-        "description": "Cross-platform and open-source Text Expander written in Rust",
-        "link": "https://espanso.org/",
-        "winget": "Espanso.Espanso"
-    },
-    "etcher": {
-        "category": "Utilities",
-        "choco": "etcher",
-        "content": "Etcher USB Creator",
-        "description": "Etcher is a powerful tool for creating bootable USB drives with ease.",
-        "link": "https://www.balena.io/etcher/",
-        "winget": "Balena.Etcher"
-    },
-    "falkon": {
-        "category": "Browsers",
-        "choco": "falkon",
-        "content": "Falkon",
-        "description": "Falkon is a lightweight and fast web browser with a focus on user privacy and efficiency.",
-        "link": "https://www.falkon.org/",
-        "winget": "KDE.Falkon"
-    },
     "fastfetch": {
         "category": "Utilities",
         "choco": "na",
@@ -550,14 +134,6 @@
         "description": "Ferdium is a messaging application that combines multiple messaging services into a single app for easy management.",
         "link": "https://ferdium.org/",
         "winget": "Ferdium.Ferdium"
-    },
-    "ffmpeg": {
-        "category": "Multimedia Tools",
-        "choco": "ffmpeg-full",
-        "content": "FFmpeg (full)",
-        "description": "FFmpeg is a powerful multimedia processing tool that enables users to convert, edit, and stream audio and video files with a vast range of codecs and formats.",
-        "link": "https://ffmpeg.org/",
-        "winget": "Gyan.FFmpeg"
     },
     "fileconverter": {
         "category": "Utilities",
@@ -575,14 +151,6 @@
         "link": "https://github.com/files-community/Files",
         "winget": "na"
     },
-    "firealpaca": {
-        "category": "Multimedia Tools",
-        "choco": "firealpaca",
-        "content": "Fire Alpaca",
-        "description": "Fire Alpaca is a free digital painting software that provides a wide range of drawing tools and a user-friendly interface.",
-        "link": "https://firealpaca.com/",
-        "winget": "FireAlpaca.FireAlpaca"
-    },
     "firefox": {
         "category": "Browsers",
         "choco": "firefox",
@@ -590,14 +158,6 @@
         "description": "Mozilla Firefox is an open-source web browser known for its customization options, privacy features, and extensions.",
         "link": "https://www.mozilla.org/en-US/firefox/new/",
         "winget": "Mozilla.Firefox"
-    },
-    "firefoxesr": {
-        "category": "Browsers",
-        "choco": "FirefoxESR",
-        "content": "Firefox ESR",
-        "description": "Mozilla Firefox is an open-source web browser known for its customization options, privacy features, and extensions. Firefox ESR (Extended Support Release) receives major updates every 42 weeks with minor updates such as crash fixes, security fixes and policy updates as needed, but at least every four weeks.",
-        "link": "https://www.mozilla.org/en-US/firefox/enterprise/",
-        "winget": "Mozilla.Firefox.ESR"
     },
     "flameshot": {
         "category": "Multimedia Tools",
@@ -607,102 +167,6 @@
         "link": "https://flameshot.org/",
         "winget": "Flameshot.Flameshot"
     },
-    "lightshot": {
-        "category": "Multimedia Tools",
-        "choco": "lightshot",
-        "content": "Lightshot (Screenshots)",
-        "description": "Ligthshot is an Easy-to-use, light-weight screenshot software tool, where you can optionally edit your screenshots using different tools, share them via Internet and/or save to disk, and customize the available options.",
-        "link": "https://app.prntscr.com/",
-        "winget": "Skillbrains.Lightshot"
-    },
-    "floorp": {
-        "category": "Browsers",
-        "choco": "na",
-        "content": "Floorp",
-        "description": "Floorp is an open-source web browser project that aims to provide a simple and fast browsing experience.",
-        "link": "https://floorp.app/",
-        "winget": "Ablaze.Floorp"
-    },
-    "flow": {
-        "category": "Utilities",
-        "choco": "flow-launcher",
-        "content": "Flow launcher",
-        "description": "Keystroke launcher for Windows to search, manage and launch files, folders bookmarks, websites and more.",
-        "link": "https://www.flowlauncher.com/",
-        "winget": "Flow-Launcher.Flow-Launcher"
-    },
-    "flux": {
-        "category": "Utilities",
-        "choco": "flux",
-        "content": "F.lux",
-        "description": "f.lux adjusts the color temperature of your screen to reduce eye strain during nighttime use.",
-        "link": "https://justgetflux.com/",
-        "winget": "flux.flux"
-    },
-    "foobar": {
-        "category": "Multimedia Tools",
-        "choco": "foobar2000",
-        "content": "foobar2000 (Music Player)",
-        "description": "foobar2000 is a highly customizable and extensible music player for Windows, known for its modular design and advanced features.",
-        "link": "https://www.foobar2000.org/",
-        "winget": "PeterPawlowski.foobar2000"
-    },
-    "foxpdfeditor": {
-        "category": "Document",
-        "choco": "na",
-        "content": "Foxit PDF Editor",
-        "description": "Foxit PDF Editor is a feature-rich PDF editor and viewer with a familiar ribbon-style interface.",
-        "link": "https://www.foxit.com/pdf-editor/",
-        "winget": "Foxit.PhantomPDF"
-    },
-    "foxpdfreader": {
-        "category": "Document",
-        "choco": "foxitreader",
-        "content": "Foxit PDF Reader",
-        "description": "Foxit PDF Reader is a free PDF viewer with a familiar ribbon-style interface.",
-        "link": "https://www.foxit.com/pdf-reader/",
-        "winget": "Foxit.FoxitReader"
-    },
-    "freecad": {
-        "category": "Multimedia Tools",
-        "choco": "freecad",
-        "content": "FreeCAD",
-        "description": "FreeCAD is a parametric 3D CAD modeler, designed for product design and engineering tasks, with a focus on flexibility and extensibility.",
-        "link": "https://www.freecadweb.org/",
-        "winget": "FreeCAD.FreeCAD"
-    },
-    "fxsound": {
-        "category": "Multimedia Tools",
-        "choco": "fxsound",
-        "content": "FxSound",
-        "description": "FxSound is a cutting-edge audio enhancement software that elevates your listening experience across all media.",
-        "link": "https://www.fxsound.com/",
-        "winget": "FxSoundLLC.FxSound"
-    },
-    "fzf": {
-        "category": "Utilities",
-        "choco": "fzf",
-        "content": "Fzf",
-        "description": "A command-line fuzzy finder",
-        "link": "https://github.com/junegunn/fzf/",
-        "winget": "junegunn.fzf"
-    },
-    "geforcenow": {
-        "category": "Games",
-        "choco": "nvidia-geforce-now",
-        "content": "GeForce NOW",
-        "description": "GeForce NOW is a cloud gaming service that allows you to play high-quality PC games on your device.",
-        "link": "https://www.nvidia.com/en-us/geforce-now/",
-        "winget": "Nvidia.GeForceNow"
-    },
-    "gimp": {
-        "category": "Multimedia Tools",
-        "choco": "gimp",
-        "content": "GIMP (Image Editor)",
-        "description": "GIMP is a versatile open-source raster graphics editor used for tasks such as photo retouching, image editing, and image composition.",
-        "link": "https://www.gimp.org/",
-        "winget": "GIMP.GIMP"
-    },
     "git": {
         "category": "Development",
         "choco": "git",
@@ -710,262 +174,6 @@
         "description": "Git is a distributed version control system widely used for tracking changes in source code during software development.",
         "link": "https://git-scm.com/",
         "winget": "Git.Git"
-    },
-    "gitbutler": {
-        "category": "Development",
-        "choco": "na",
-        "content": "Git Butler",
-        "description": "A Git client for simultaneous branches on top of your existing workflow.",
-        "link": "https://gitbutler.com/",
-        "winget": "GitButler.GitButler"
-    },
-    "gitextensions": {
-        "category": "Development",
-        "choco": "git;gitextensions",
-        "content": "Git Extensions",
-        "description": "Git Extensions is a graphical user interface for Git, providing additional features for easier source code management.",
-        "link": "https://gitextensions.github.io/",
-        "winget": "GitExtensionsTeam.GitExtensions"
-    },
-    "githubcli": {
-        "category": "Development",
-        "choco": "git;gh",
-        "content": "GitHub CLI",
-        "description": "GitHub CLI is a command-line tool that simplifies working with GitHub directly from the terminal.",
-        "link": "https://cli.github.com/",
-        "winget": "GitHub.cli"
-    },
-    "githubdesktop": {
-        "category": "Development",
-        "choco": "git;github-desktop",
-        "content": "GitHub Desktop",
-        "description": "GitHub Desktop is a visual Git client that simplifies collaboration on GitHub repositories with an easy-to-use interface.",
-        "link": "https://desktop.github.com/",
-        "winget": "GitHub.GitHubDesktop"
-    },
-    "gitkrakenclient": {
-        "category": "Development",
-        "choco": "gitkraken",
-        "content": "GitKraken Client",
-        "description": "GitKraken Client is a powerful visual Git client from Axosoft that works with ALL git repositories on any hosting environment.",
-        "link": "https://www.gitkraken.com/git-client",
-        "winget": "Axosoft.GitKraken"
-    },
-    "glaryutilities": {
-        "category": "Utilities",
-        "choco": "glaryutilities-free",
-        "content": "Glary Utilities",
-        "description": "Glary Utilities is a comprehensive system optimization and maintenance tool for Windows.",
-        "link": "https://www.glarysoft.com/glary-utilities/",
-        "winget": "Glarysoft.GlaryUtilities"
-    },
-    "godotengine": {
-        "category": "Development",
-        "choco": "godot",
-        "content": "Godot Engine",
-        "description": "Godot Engine is a free, open-source 2D and 3D game engine with a focus on usability and flexibility.",
-        "link": "https://godotengine.org/",
-        "winget": "GodotEngine.GodotEngine"
-    },
-    "gog": {
-        "category": "Games",
-        "choco": "goggalaxy",
-        "content": "GOG Galaxy",
-        "description": "GOG Galaxy is a gaming client that offers DRM-free games, additional content, and more.",
-        "link": "https://www.gog.com/galaxy",
-        "winget": "GOG.Galaxy"
-    },
-    "gitify": {
-        "category": "Development",
-        "choco": "na",
-        "content": "Gitify",
-        "description": "GitHub notifications on your menu bar.",
-        "link": "https://www.gitify.io/",
-        "winget": "Gitify.Gitify"
-    },
-    "golang": {
-        "category": "Development",
-        "choco": "golang",
-        "content": "Go",
-        "description": "Go (or Golang) is a statically typed, compiled programming language designed for simplicity, reliability, and efficiency.",
-        "link": "https://go.dev/",
-        "winget": "GoLang.Go"
-    },
-    "googledrive": {
-        "category": "Utilities",
-        "choco": "googledrive",
-        "content": "Google Drive",
-        "description": "File syncing across devices all tied to your google account",
-        "link": "https://www.google.com/drive/",
-        "winget": "Google.GoogleDrive"
-    },
-    "gpuz": {
-        "category": "Utilities",
-        "choco": "gpu-z",
-        "content": "GPU-Z",
-        "description": "GPU-Z provides detailed information about your graphics card and GPU.",
-        "link": "https://www.techpowerup.com/gpuz/",
-        "winget": "TechPowerUp.GPU-Z"
-    },
-    "greenshot": {
-        "category": "Multimedia Tools",
-        "choco": "greenshot",
-        "content": "Greenshot (Screenshots)",
-        "description": "Greenshot is a light-weight screenshot software tool with built-in image editor and customizable capture options.",
-        "link": "https://getgreenshot.org/",
-        "winget": "Greenshot.Greenshot"
-    },
-    "gsudo": {
-        "category": "Utilities",
-        "choco": "gsudo",
-        "content": "Gsudo",
-        "description": "Gsudo is a sudo implementation for Windows, allowing elevated privilege execution.",
-        "link": "https://gerardog.github.io/gsudo/",
-        "winget": "gerardog.gsudo"
-    },
-    "guilded": {
-        "category": "Communications",
-        "choco": "na",
-        "content": "Guilded",
-        "description": "Guilded is a communication and productivity platform that includes chat, scheduling, and collaborative tools for gaming and communities.",
-        "link": "https://www.guilded.gg/",
-        "winget": "Guilded.Guilded"
-    },
-    "handbrake": {
-        "category": "Multimedia Tools",
-        "choco": "handbrake",
-        "content": "HandBrake",
-        "description": "HandBrake is an open-source video transcoder, allowing you to convert video from nearly any format to a selection of widely supported codecs.",
-        "link": "https://handbrake.fr/",
-        "winget": "HandBrake.HandBrake"
-    },
-    "harmonoid": {
-        "category": "Multimedia Tools",
-        "choco": "na",
-        "content": "Harmonoid",
-        "description": "Plays and manages your music library. Looks beautiful and juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost and more.",
-        "link": "https://harmonoid.com/",
-        "winget": "Harmonoid.Harmonoid"
-    },
-    "heidisql": {
-        "category": "Pro Tools",
-        "choco": "heidisql",
-        "content": "HeidiSQL",
-        "description": "HeidiSQL is a powerful and easy-to-use client for MySQL, MariaDB, Microsoft SQL Server, and PostgreSQL databases. It provides tools for database management and development.",
-        "link": "https://www.heidisql.com/",
-        "winget": "HeidiSQL.HeidiSQL"
-    },
-    "helix": {
-        "category": "Development",
-        "choco": "helix",
-        "content": "Helix",
-        "description": "Helix is a neovim alternative built in rust.",
-        "link": "https://helix-editor.com/",
-        "winget": "Helix.Helix"
-    },
-    "heroiclauncher": {
-        "category": "Games",
-        "choco": "na",
-        "content": "Heroic Games Launcher",
-        "description": "Heroic Games Launcher is an open-source alternative game launcher for Epic Games Store.",
-        "link": "https://heroicgameslauncher.com/",
-        "winget": "HeroicGamesLauncher.HeroicGamesLauncher"
-    },
-    "hexchat": {
-        "category": "Communications",
-        "choco": "hexchat",
-        "content": "Hexchat",
-        "description": "HexChat is a free, open-source IRC (Internet Relay Chat) client with a graphical interface for easy communication.",
-        "link": "https://hexchat.github.io/",
-        "winget": "HexChat.HexChat"
-    },
-    "hwinfo": {
-        "category": "Utilities",
-        "choco": "hwinfo",
-        "content": "HWiNFO",
-        "description": "HWiNFO provides comprehensive hardware information and diagnostics for Windows.",
-        "link": "https://www.hwinfo.com/",
-        "winget": "REALiX.HWiNFO"
-    },
-    "hwmonitor": {
-        "category": "Utilities",
-        "choco": "hwmonitor",
-        "content": "HWMonitor",
-        "description": "HWMonitor is a hardware monitoring program that reads PC systems main health sensors.",
-        "link": "https://www.cpuid.com/softwares/hwmonitor.html",
-        "winget": "CPUID.HWMonitor"
-    },
-    "imageglass": {
-        "category": "Multimedia Tools",
-        "choco": "imageglass",
-        "content": "ImageGlass (Image Viewer)",
-        "description": "ImageGlass is a versatile image viewer with support for various image formats and a focus on simplicity and speed.",
-        "link": "https://imageglass.org/",
-        "winget": "DuongDieuPhap.ImageGlass"
-    },
-    "imgburn": {
-        "category": "Multimedia Tools",
-        "choco": "imgburn",
-        "content": "ImgBurn",
-        "description": "ImgBurn is a lightweight CD, DVD, HD-DVD, and Blu-ray burning application with advanced features for creating and burning disc images.",
-        "link": "http://www.imgburn.com/",
-        "winget": "LIGHTNINGUK.ImgBurn"
-    },
-    "inkscape": {
-        "category": "Multimedia Tools",
-        "choco": "inkscape",
-        "content": "Inkscape",
-        "description": "Inkscape is a powerful open-source vector graphics editor, suitable for tasks such as illustrations, icons, logos, and more.",
-        "link": "https://inkscape.org/",
-        "winget": "Inkscape.Inkscape"
-    },
-    "itch": {
-        "category": "Games",
-        "choco": "itch",
-        "content": "Itch.io",
-        "description": "Itch.io is a digital distribution platform for indie games and creative projects.",
-        "link": "https://itch.io/",
-        "winget": "ItchIo.Itch"
-    },
-    "itunes": {
-        "category": "Multimedia Tools",
-        "choco": "itunes",
-        "content": "iTunes",
-        "description": "iTunes is a media player, media library, and online radio broadcaster application developed by Apple Inc.",
-        "link": "https://www.apple.com/itunes/",
-        "winget": "Apple.iTunes"
-    },
-    "jami": {
-        "category": "Communications",
-        "choco": "jami",
-        "content": "Jami",
-        "description": "Jami is a secure and privacy-focused communication platform that offers audio and video calls, messaging, and file sharing.",
-        "link": "https://jami.net/",
-        "winget": "SFLinux.Jami"
-    },
-    "java8": {
-        "category": "Development",
-        "choco": "corretto8jdk",
-        "content": "Amazon Corretto 8 (LTS)",
-        "description": "Amazon Corretto is a no-cost, multiplatform, production-ready distribution of the Open Java Development Kit (OpenJDK).",
-        "link": "https://aws.amazon.com/corretto",
-        "winget": "Amazon.Corretto.8.JDK"
-    },
-    "java11": {
-        "category": "Development",
-        "choco": "corretto11jdk",
-        "content": "Amazon Corretto 11 (LTS)",
-        "description": "Amazon Corretto is a no-cost, multiplatform, production-ready distribution of the Open Java Development Kit (OpenJDK).",
-        "link": "https://aws.amazon.com/corretto",
-        "winget": "Amazon.Corretto.11.JDK"
-    },
-    "java17": {
-        "category": "Development",
-        "choco": "corretto17jdk",
-        "content": "Amazon Corretto 17 (LTS)",
-        "description": "Amazon Corretto is a no-cost, multiplatform, production-ready distribution of the Open Java Development Kit (OpenJDK).",
-        "link": "https://aws.amazon.com/corretto",
-        "winget": "Amazon.Corretto.17.JDK"
     },
     "java21": {
         "category": "Development",
